@@ -11,7 +11,7 @@ export ZSH_TMUX_UNICODE=true
 export ZSH_TMUX_autoconnect=false
 
 # Needed by Powerlevel9k theme -- load awesome-terminal-fonts patched version of fonts.
-source ~/.local/share/fonts/awesome-terminal-fonts/*.sh
+# source ~/.local/share/fonts/awesome-terminal-fonts/*.sh
 
 # Alias for managing dotfiles.
 alias dotcfg='/usr/bin/git --git-dir=$HOME/.dotfiles/ --work-tree=$HOME'
