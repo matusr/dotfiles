@@ -3,7 +3,7 @@ Dotfiles meant to be used in Z shell with oh-my-zsh and powerlevel9k theme.
 
 For installation, you can use the following in your home directory:
 
-curl https://gist.githubusercontent.com/Auratons/2db1bd338f79bc0e7edc26ee2cf07d48/raw/767dc84bcc48c0c7e93fa62a30938fafe962a92a/dotfiles-install.sh | /bin/bash
+curl https://gist.githubusercontent.com/matusr/dc2a704b0595eb92a9c7b855108fb69e/raw/87271cc2d338084ae0aa6666014912a74bc28cb7/dotfiles-install.sh | /bin/bash
 
 As a font for your terminal emulator I advise to install, set and use patched 'Hack Regular Nerd Font Complete.ttf'
 from https://github.com/ryanoasis/nerd-fonts/tree/master/patched-fonts/Hack/Regular/complete.
