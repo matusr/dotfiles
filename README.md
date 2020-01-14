@@ -1,6 +1,13 @@
 # dotfiles
 Dotfiles meant to be used in Z shell with oh-my-zsh and powerlevel9k theme.
 
+```
+brew install zsh
+brew install tmux
+brew cask install iterm2
+
+```
+
 For installation, you can use the following in your home directory:
 
 curl https://gist.githubusercontent.com/matusr/dc2a704b0595eb92a9c7b855108fb69e/raw/87271cc2d338084ae0aa6666014912a74bc28cb7/dotfiles-install.sh | /bin/bash
