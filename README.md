@@ -48,9 +48,8 @@ source .zshrc
 As a font for your terminal emulator I advise to install, set and use patched 'Hack Regular Nerd Font Complete.ttf'
 from https://github.com/ryanoasis/nerd-fonts/tree/master/patched-fonts/Hack/Regular/complete. Just download and install from the file.
 
-For the installation of your dotfiles you can use the following in your home directory so that when you want to pull or push the latest changes (it will export to .zshrc). 
+For the installation of your dotfiles you can use the following in your home directory so that when you want to pull or push the latest changes (it will export to .zshrc). Put off proxy.
 ```
-mrk-proxy-off
 curl https://gist.githubusercontent.com/matusr/dc2a704b0595eb92a9c7b855108fb69e/raw/87271cc2d338084ae0aa6666014912a74bc28cb7/dotfiles-install.sh | /bin/bash
 ```
 iTerm2
