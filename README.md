@@ -75,6 +75,7 @@ ctrl + arrow or mouse
 crtl + d
 esc 
 ```
+Machine specific settings put into .oh-my-zsh-custom!!!
 
 This repository was created by following a great article https://www.atlassian.com/git/tutorials/dotfiles,
 for interaction with the local repository you must use, instead of 'git', alias called 'dotcfg' (take 
