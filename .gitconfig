@@ -5,3 +5,9 @@
 	default = simple
 [core]
 	editor = vim
+[http]
+	proxy = http://webproxy.merck.com:8080
+[https]
+	proxy = http://webproxy.merck.com:8080
+[url "https://"]
+	insteadOf = git://
